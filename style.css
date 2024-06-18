@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+/* 블럭 1번 */
+.box1{
+    width: 100%;
+    height: 1084px;
+    background-image: url(img/bg01.png);
+    background-position: center;
+    background-size: cover;
+}
+.con1{
+    width: 1100px;
+    height: 1084px;
+    margin: 0 auto;
+    position: relative;
+}
+.img01{
+    display: block;
+    position: absolute;
+    top: 52px;
+    left: 43px;
+}
+.img02{
+    display: block;
+    position: absolute;
+    top: 349px;
+    left: 127px;
+}
+.img03{
+    display: block;
+    position: absolute;
+    top: 252px;
+    left: 284px;
+}
+/* 블럭 2번 */
+.box2{
+    width: 100%;
+   height: 3058px;
+   background-image: url(img/bg02.png);
+   background-position: center;
+    background-size: cover;
+}
+.con2{
+    width: 1100px;
+    height: 3058px;
+    margin: 0 auto;
+    position: relative;
+}
+.img04{
+    display: block;
+    position: absolute;
+    top: 590px;
+    left: 0px;
+}
+.img05{
+    display: block;
+    position: absolute;
+    top: 1803px;
+    right: 209px;
+}
+.img06{
+    display: block;
+    position: absolute;
+    bottom: 192px;
+    left: 618px;
+}
+.txt{
+    padding-top: 323px;
+    width: 1100px;
+    height: 3058px;
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 55px;
+    letter-spacing: -0.8px;
+    color: #FF8C63;
+}
+/* 블럭 3번 */
+.box3{
+    width: 100%;
+    height: 975px;
+    background-image: url(img/bg03.png);
+    background-position: center;
+    background-size: cover;
+}
+.con3{
+    width: 1100px;
+    height: 975px;
+    margin: 0 auto;
+    position: relative;
+}
+.img07{
+    display: block;
+    position: absolute;
+    top: 283px;
+    left: 44px;
+}
+.img08{
+    display: block;
+    position: absolute;
+    top: 283px;
+    left: 531px;
+}
+.img09{
+    display: block;
+    position: absolute;
+    top: 539px;
+    left: 531px;
+}
+.box4{
+    width: 100%;
+    height: 887px;
+    background-image: url(img/bg04.png);
+    background-position: center;
+    background-size: cover;   
+}
